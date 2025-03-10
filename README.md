@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">📫 Contact Me<br> 📩 Email: lengocduong003@gmail.com</p>
+<p align="left">📫 Contact Me<br> 📩 Email: lengocduong003@gmail.com<br>💼 Portfolio: https://duong-portfolio-nine.vercel.app</p>
 
 ###
 
@@ -70,5 +70,11 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Duongnl/Duongnl/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Duongnl&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
 ###
