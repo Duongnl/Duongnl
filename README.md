@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">📫 Contact Me<br> 📩 Email: lengocduong003@gmail.com<br>💼 Portfolio: https://duong-portfolio-nine.vercel.app</p>
+<p align="left">📫 Contact Me 🔽<br>📄CV: https://drive.google.com/file/d/1Q5_BWjlZqyZsAIdAuiWY7mhi7Np457AJ/view<br> 📩 Email: lengocduong003@gmail.com<br>💼 Portfolio: https://duong-portfolio-nine.vercel.app</p>
 
 ###
 
